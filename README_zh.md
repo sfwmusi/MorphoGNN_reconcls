@@ -1,4 +1,4 @@
-# MorphoGNN_NeuronCls
+# MorphoGNN_reconcls
 用于MorphoGNN的神经元重建块的质量分类实验https://github.com/fun0515/MorphoGNN
 
 ## 运行需求：
