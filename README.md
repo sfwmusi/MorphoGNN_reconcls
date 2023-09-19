@@ -54,5 +54,5 @@ python visual.py --exp_name=cls_1024_eval --num_points=1024 --k=20 --eval=True -
 ## 致谢
 
 代码参考源于
-1.https://github.com/WangYueFt/dgcnn/tree/master/pytorch
-2.https://github.com/xmuyzz/3D-CNN-PyTorch/blob/master/models/C3DNet.py
+- 1.https://github.com/WangYueFt/dgcnn/tree/master/pytorch
+- 2.https://github.com/xmuyzz/3D-CNN-PyTorch/blob/master/models/C3DNet.py
